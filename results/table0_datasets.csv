@@ -1,0 +1,4 @@
+,rows,encoded features,privileged rows,unprivileged rows,favourable share
+Adult,48842,89,32650,16192,0.23928176569346055
+German,1000,60,810,190,0.7
+COMPAS,5278,9,2103,3175,0.5295566502463054
